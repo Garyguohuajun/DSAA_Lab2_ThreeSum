@@ -16,6 +16,8 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
+        // add the array you want
+        // something will happen if there are same numbers in "array"
         int[] array = new int[] {-4,-4,-4,-4,-4,0,1,2};
 
         for (int i = -5; i<=3; i++){
