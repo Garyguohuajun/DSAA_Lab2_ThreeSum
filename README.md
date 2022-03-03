@@ -1,4 +1,4 @@
-# DSAA_Lab2_ThreeSum
+# SUSTech DSAA Lab2 ThreeSum
 ## Three Sum
 That's a easy problem for DSAA, by learning it, we can have a basic knowledge of what is algorithm.
 ## Binary Search
